@@ -5,4 +5,4 @@
 - всем доволен
 
 
-![images](C:\Users\sanya\OneDrive\Рабочий стол\o_sebe\img)
+![images](img/ya.jpg)
